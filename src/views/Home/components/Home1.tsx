@@ -24,7 +24,7 @@ const Home1 = () => {
             {t('SpurDex synergizes with MSMEs')}
           </Heading>
           <Text color="card" fontSize="18px" mb="24px">
-            {t('The first Equity Crowdfunding platform built using Binance smart chain technology')}
+            {t('The first Equity Crowdfunding platform built using Credit Smart Chain technology')}
           </Text>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}            
