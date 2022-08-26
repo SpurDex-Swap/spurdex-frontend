@@ -80,83 +80,22 @@ export const socials = [
   {
     label: "Facebook",
     icon: FacebookIcon,
-    href: "https://facebook.com/spurdex"
+    href: "https://web.facebook.com/spurdex"
   },
   {
     label: "Twitter",
     icon: TwitterIcon,
-    href: "https://twitter.com/spurdex",
+    href: "https://twitter.com/SPURDEX1",
   },
   {
     label: "Telegram",
     icon: TelegramIcon,
-    items: [
-      {
-        label: "English",
-        href: "https://t.me/spurdex",
-      },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/SpurDexIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/SpurDex_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/SpurDexVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/SpurDex_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/SpurDex_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/SpurDexturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/SpurDexPortuguese",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/SpurDexEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/SpurDexjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/SpurDexfr",
-      },
-      {
-        label: "Deutsch",
-        href: "https://t.me/SpurDex_DE",
-      },
-      {
-        label: "Filipino",
-        href: "https://t.me/SpurDex_Ph",
-      },
-      {
-        label: "ქართული ენა",
-        href: "https://t.me/SpurDexGeorgia",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/SpurDexAnn",
-      },
-    ],
+    href: "https://t.me/spurdexgroup",
   },
   {
     label: "Instagram",
     icon: InstagramIcon,
-    href: "https://instagram.com/SpurDex_official",
+    href: "https://www.instagram.com/spur_dex/",
   },
   {
     label: "Youtube",

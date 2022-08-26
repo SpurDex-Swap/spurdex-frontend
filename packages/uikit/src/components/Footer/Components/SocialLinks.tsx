@@ -5,10 +5,11 @@ import Flex from "../../Box/Flex";
 import Dropdown from "../../Dropdown/Dropdown";
 import Link from "../../Link/Link";
 import { socials } from "../config";
+import { SocialLinkType } from "../types";
 
 const SocialLinks: React.FC<FlexProps> = ({ ...props }) => (
   <Flex {...props}>
-    {socials.map((social, index) => {
+    {socials.map((social: SocialLinkType, index) => {
       const iconProps = {
         width: "28px",
         color: darkColors.primary,

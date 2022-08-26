@@ -104,13 +104,13 @@ const Footer = () => {
       )} */}
       <Wrapper>
         <Heading mb="24px" scale="xl" color="white">
-          {t('Ready For Orbit?')}
+          {t('Ready To Spur Your Trading Experience?')}
         </Heading>
         <Text textAlign="center" color="white">
-          {t('Connect your crypto wallet to start using the app in seconds.')}
+          {t('Just connect your crypto wallet in seconds and you are good to go.')}
         </Text>
         <Text textAlign="center" color="white">
-          {t('No registration needed.')}
+          {t('No Registration or account creation needed!')}
         </Text>
         <Text mb="24px" bold color="#FFE200" mt="24px">
           {t('Learn how to start')}

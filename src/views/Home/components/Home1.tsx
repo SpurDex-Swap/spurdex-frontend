@@ -20,11 +20,14 @@ const Home1 = () => {
         id="homepage-hero"
       >
         <Flex flex="1" flexDirection="column">
+          <Heading scale="xxl" color="#FFE200" mb="20px">
+            {t('YOUR CRYPTO TRADING EXPERIENCE IS SPURRED!')}
+          </Heading>
           <Heading scale="xxl" color="#FFE200" mb="40px">
-            {t('SpurDex synergizes with MSMEs')}
+            {t('SECURE AND EASY TO USE')}
           </Heading>
           <Text color="card" fontSize="18px" mb="24px">
-            {t('The first Equity Crowdfunding platform built using Credit Smart Chain technology')}
+            {t('A Complete Defi Platform To Trade, Stake, Farm And Earn Crypto With No Hassle')}
           </Text>
           <Flex>
             {!account && <ConnectWalletButton mr="8px" />}            

@@ -21,9 +21,9 @@ const Home2 = () => {
         id="homepage-home2"
       >
         <Flex flex="1" flexDirection="column">
-          <ColoredWordLastHeading text={t('Becoming a Investor')} />          
+          <ColoredWordLastHeading text={t('Becoming an Investor')} />          
           <Text color="card" fontSize="18px" mb="24px" mt="20px">
-            {t('So investors using the indoswap platform just in your grasp get attractive benefits')}
+            {t('SpurDex is the Premiere Decentralized Exchange on the Credit Smart Chain with an easy to use platform for everyday users.')}
           </Text>          
         </Flex>
         <Flex

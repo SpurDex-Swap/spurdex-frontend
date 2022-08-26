@@ -35,7 +35,7 @@ const Home3 = () => {
         <Flex flex="1" flexDirection="column">
           <ColoredWordHeading text={t('High Passive Income')} />          
           <Text color="card" fontSize="18px" mb="40px" mt="20px">
-            {t('So investors using the SpurDex platform just in your grasp get attractive benefits')}
+            {t('You earn SPDX and other tokens with enormous interest rates for free.')}
           </Text>
           <Flex>
             <Button mr="16px">
