@@ -44,7 +44,7 @@ export const earnSectionData = (t: TranslateFunction): SalesSectionProps => ({
     attributes: [
       { src: 'pie', alt: t('Pie chart') },
       { src: 'stonks', alt: t('Stocks chart') },
-      { src: 'folder', alt: t('Folder with BDCC token') },
+      { src: 'folder', alt: t('Folder with SPDX token') },
     ],
   },
 })
@@ -71,7 +71,7 @@ export const cakeSectionData = (t: TranslateFunction): SalesSectionProps => ({
     attributes: [
       { src: 'bottom-right', alt: t('Small 3d pancake') },
       { src: 'top-right', alt: t('Small 3d pancake') },
-      { src: 'coin', alt: t('BDCC token') },
+      { src: 'coin', alt: t('SPDX token') },
       { src: 'top-left', alt: t('Small 3d pancake') },
     ],
   },

@@ -69,7 +69,7 @@ const DetailsView: React.FC<DetailsViewProps> = ({
       {Number.isFinite(cakePoolBalance) && (
         <Flex alignItems="center" justifyContent="space-between" mb="4px">
           <Text color="textSubtle" fontSize="16px">
-            {t('BDCC Pool')}
+            {t('SPDX Pool')}
           </Text>
           <Text textAlign="right">{formatNumber(cakePoolBalance, 0, 3)}</Text>
         </Flex>
