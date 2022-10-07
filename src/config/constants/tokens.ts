@@ -68,7 +68,7 @@ export const mainnetTokens = defineTokens({
 
   usdt: new Token(
     MAINNET,
-    '0xebe8262a7111E5Acd0e5DE8675F49f35842044dB',
+    '0xAC27a9a8c887C5495584fCb0DbDb13d96B7275Fe',
     18,
     'USDT',
     'Tether USD',

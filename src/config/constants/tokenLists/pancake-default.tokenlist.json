@@ -19,46 +19,6 @@
       "logoURI": "https://spurdex.exchange/images/tokens/0x7c827E6B3EA27b2F726e036d94B2b5eD18Da87a9.png"
     },
     {
-      "name": "CUSD Token",
-      "symbol": "CUSD",
-      "address": "0xB3A94227032856b71E522984c79D6De68bEf6BcA",
-      "chainId": 13308,
-      "decimals": 18,
-      "logoURI": "https://spurdex.exchange/images/tokens/0xB3A94227032856b71E522984c79D6De68bEf6BcA.png"
-    },
-    {
-      "name": "Ethereum Token",
-      "symbol": "ETH",
-      "address": "0x7EDA29098b5974fd9d1b73BaC4167360D489772e",
-      "chainId": 13308,
-      "decimals": 18,
-      "logoURI": "https://spurdex.exchange/images/tokens/0x7EDA29098b5974fd9d1b73BaC4167360D489772e.png"
-    },
-    {
-      "name": "Tron Token",
-      "symbol": "TRX",
-      "address": "0xCeF7cac6abc2b5646D4B188bDb6b5Dbb19C79B49",
-      "chainId": 13308,
-      "decimals": 18,
-      "logoURI": "https://spurdex.exchange/images/tokens/0xCeF7cac6abc2b5646D4B188bDb6b5Dbb19C79B49.png"
-    },
-    {
-      "name": "Bitcoin Token",
-      "symbol": "BTC",
-      "address": "0x793A1404F7e44f42B1E42283D9ed5DeaAdA81af9",
-      "chainId": 13308,
-      "decimals": 18,
-      "logoURI": "https://spurdex.exchange/images/tokens/0x793A1404F7e44f42B1E42283D9ed5DeaAdA81af9.png"
-    },
-    {
-      "name": "Tether USD",
-      "symbol": "USDT",
-      "address": "0xebe8262a7111E5Acd0e5DE8675F49f35842044dB",
-      "chainId": 13308,
-      "decimals": 18,
-      "logoURI": "https://spurdex.exchange/images/tokens/0xebe8262a7111E5Acd0e5DE8675F49f35842044dB.png"
-    },
-    {
       "name": "SpurDex Token",
       "symbol": "SPDX",
       "address": "0x0C609476442DC803721BD8F697609050CBbe814E",

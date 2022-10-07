@@ -20,7 +20,7 @@ const farms: SerializedFarmConfig[] = [
     quoteToken: serializedTokens.wcredit,
   },
   {
-    pid: 2,
+    pid: 5,
     // v1pid: 1,
     lpSymbol: 'SPDX-CREDIT LP',
     lpAddresses: {
@@ -30,25 +30,25 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.spdx,
     quoteToken: serializedTokens.wcredit,
   },
-  {
-    pid: 3,
-    // v1pid: 2,
-    lpSymbol: 'CUSD-CREDIT LP',
-    lpAddresses: {
-      40627: '0xc8EdeC730CC6aBb57c213c840633071164357357',
-      13308: '0x0a5f83aF1524936029d5F94Da306E62cbF851008',
-    },
-    token: serializedTokens.cusd,
-    quoteToken: serializedTokens.wcredit,
-  },
+  // {
+  //   pid: 3,
+  //   // v1pid: 2,
+  //   lpSymbol: 'CUSD-CREDIT LP',
+  //   lpAddresses: {
+  //     40627: '0xc8EdeC730CC6aBb57c213c840633071164357357',
+  //     13308: '0x0a5f83aF1524936029d5F94Da306E62cbF851008',
+  //   },
+  //   token: serializedTokens.cusd,
+  //   quoteToken: serializedTokens.wcredit,
+  // },
   //    * V3 by order of release (some may be out of PID order due to multiplier boost)
   {
-    pid: 4,
+    pid: 6,
     // v1pid: 3,
     lpSymbol: 'USDT-CREDIT LP',
     lpAddresses: {
       40627: '0x0DC8b02c393B3FD37dA5B3944Ad9d301377C5849',
-      13308: '0x2070beA46483AbA1f7184C3346D9788f57DD23Ab',
+      13308: '0x228c1F6daD6e2d2f82F9C048fe3F6249B4dFE2cE',
     },
     token: serializedTokens.usdt,
     quoteToken: serializedTokens.wcredit,

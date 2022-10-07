@@ -52,7 +52,7 @@ export const usePollFarmsWithUserData = () => {
  * 2 = CAKE-BNB LP
  * 3 = BUSD-BNB LP
  */
-const coreFarmPIDs = CHAIN_ID === String(ChainId.MAINNET) ? [2, 3] : [2, 3]
+const coreFarmPIDs = CHAIN_ID === String(ChainId.MAINNET) ? [5, 3] : [5, 3]
 export const usePollCoreFarmData = () => {
   const dispatch = useAppDispatch()
 
