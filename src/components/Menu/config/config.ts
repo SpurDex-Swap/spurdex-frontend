@@ -66,6 +66,13 @@ const config: (t: ContextApi['t'], languageCode?: string) => ConfigMenuItemsType
       },
     ],
   },
+  {
+    label: t('Bridge'),
+    href: 'https://bridge.cscscan.io/bridge',
+    icon: EarnIcon,
+    fillIcon: EarnFillIcon,
+    items: [],
+  },
   // {
   //   label: t('Win'),
   //   href: '/prediction',
