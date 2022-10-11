@@ -54,16 +54,16 @@ function MyApp(props: AppProps) {
         />
         <meta
           name="description"
-          content="Cheaper and faster than Uniswap? Discover SpurDex, the leading DEX on CREDIT Smart Chain (BSC) with the best farms in DeFi and a lottery for SPDX."
+          content="Cheaper and faster than Uniswap? Discover SpurDex, the leading DEX on CREDIT Smart Chain (CSC) with the best farms in DeFi and a lottery for SPDX."
         />
         <meta name="theme-color" content="#1FC7D4" />
         <meta name="twitter:image" content="https://spurdex.exchange/images/hero.png" />
         <meta
           name="twitter:description"
-          content="The most popular AMM on BSC! Earn SPDX through yield farming or win it in the Lottery, then stake it in Syrup Pools to earn more tokens! Initial Farm Offerings (new token launch model pioneered by SpurDex), NFTs, and more, on a platform you can trust."
+          content="The most popular AMM on CSC! Earn SPDX through yield farming or stake it in Syrup Pools to earn more tokens!"
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="SpurDex - A next evolution DeFi exchange on CREDIT Smart Chain (BSC)" />
+        <meta name="twitter:title" content="SpurDex - A next evolution DeFi exchange on CREDIT Smart Chain (CSC)" />
         <title>SpurDex</title>
       </Head>
       <Providers store={store}>
