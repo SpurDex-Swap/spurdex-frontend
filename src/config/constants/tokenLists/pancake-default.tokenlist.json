@@ -25,6 +25,14 @@
       "chainId": 13308,
       "decimals": 18,
       "logoURI": "https://spurdex.exchange/images/tokens/0x0C609476442DC803721BD8F697609050CBbe814E.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0xAC27a9a8c887C5495584fCb0DbDb13d96B7275Fe",
+      "chainId": 13308,
+      "decimals": 18,
+      "logoURI": "https://spurdex.exchange/images/tokens/0xAC27a9a8c887C5495584fCb0DbDb13d96B7275Fe.png"
     }
   ]
 }
