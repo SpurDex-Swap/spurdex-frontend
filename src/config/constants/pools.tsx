@@ -58,7 +58,19 @@ const pools: SerializedPoolConfig[] = [
     poolCategory: PoolCategory.CORE,
     tokenPerBlock: '10',
     isFinished: false,
-  }
+  },
+  // {
+  //   sousId: 280,
+  //   stakingToken: serializedTokens.redefi,
+  //   earningToken: serializedTokens.redefi,
+  //   contractAddress: {
+  //     40627: '',
+  //     13308: '0x8d5c0351d7850C9E8A0C940673079E3736380e38',
+  //   },
+  //   poolCategory: PoolCategory.CORE,
+  //   tokenPerBlock: '10',
+  //   isFinished: false,
+  // }
 ].filter((p) => !!p.contractAddress[CHAIN_ID])
 
 // known finished pools

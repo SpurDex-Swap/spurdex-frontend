@@ -30,17 +30,17 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.spdx,
     quoteToken: serializedTokens.wcredit,
   },
-  // {
-  //   pid: 3,
-  //   // v1pid: 2,
-  //   lpSymbol: 'CUSD-CREDIT LP',
-  //   lpAddresses: {
-  //     40627: '0xc8EdeC730CC6aBb57c213c840633071164357357',
-  //     13308: '0x0a5f83aF1524936029d5F94Da306E62cbF851008',
-  //   },
-  //   token: serializedTokens.cusd,
-  //   quoteToken: serializedTokens.wcredit,
-  // },
+  {
+    pid: 3,
+    // v1pid: 2,
+    lpSymbol: 'CUSD-CREDIT LP',
+    lpAddresses: {
+      40627: '0xc8EdeC730CC6aBb57c213c840633071164357357',
+      13308: '0x0a5f83aF1524936029d5F94Da306E62cbF851008',
+    },
+    token: serializedTokens.cusd,
+    quoteToken: serializedTokens.wcredit,
+  },
   //    * V3 by order of release (some may be out of PID order due to multiplier boost)
   {
     pid: 6,

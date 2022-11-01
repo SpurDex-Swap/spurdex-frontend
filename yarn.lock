@@ -2942,9 +2942,9 @@
   integrity sha512-Te/OBDXFSodPU6jlXYPAXpmZr/AkG6DCATAxttQxqOWaq6eDFX25Db3dK0120GZrSZmv4QCe9KsZmJKDbWs4OA==
 
 "@next/eslint-plugin-next@^12.22.0":
-  version "12.3.2-canary.28"
-  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-12.3.2-canary.28.tgz#e125a42602d28ef464f732d7c03f7c2a00092809"
-  integrity sha512-6ZCJk9tyLiO9Q4AvhC+7FIV7rVr3yJculzW0dJXZLGEHFUHd6vpcvTLv9vrsKH7veH6ptLfAQH8naKdKH6j+Qw==
+  version "13.0.0"
+  resolved "https://registry.yarnpkg.com/@next/eslint-plugin-next/-/eslint-plugin-next-13.0.0.tgz#cf3d799b21671554c1f5889c01d2513afb9973cd"
+  integrity sha512-z+gnX4Zizatqatc6f4CQrcC9oN8Us3Vrq/OLyc98h7K/eWctrnV91zFZodmJHUjx0cITY8uYM7LXD7IdYkg3kg==
   dependencies:
     glob "7.1.7"
 
