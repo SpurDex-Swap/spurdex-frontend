@@ -13,7 +13,7 @@ const FarmsPage = () => {
   return (
     <>
       {chosenFarmsMemoized.map((farm) => (
-        (farm.pid != 3) && <FarmCard
+        (farm.pid !== 3) && <FarmCard
           key={farm.pid}
           farm={farm}
           displayApr={getDisplayApr(farm.apr, farm.lpRewardsApr)}
