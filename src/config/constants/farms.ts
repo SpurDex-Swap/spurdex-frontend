@@ -8,7 +8,7 @@ const farms: SerializedFarmConfig[] = [
   /**
    * These 3 farms (PID 0, 2, 3) should always be at the top of the file.
    */
-   {
+  {
     pid: 0,
     v1pid: 0,
     lpSymbol: 'SPDX',
@@ -53,6 +53,16 @@ const farms: SerializedFarmConfig[] = [
     token: serializedTokens.usdt,
     quoteToken: serializedTokens.wcredit,
   },
+  {
+    pid: 7,
+    lpSymbol: '	REDEFi-CREDIT LP',
+    lpAddresses: {
+      40627: '',
+      13308: '0x4E00b29282f81603f6D55c34ecE5fEDa3B98a702',
+    },
+    token: serializedTokens.redefi,
+    quoteToken: serializedTokens.wcredit,
+  },
   // {
   //   pid: 5,
   //   lpSymbol: 'ETH-CREDIT LP',
@@ -63,9 +73,6 @@ const farms: SerializedFarmConfig[] = [
   //   token: serializedTokens.eth,
   //   quoteToken: serializedTokens.wcredit,
   // },
-
-
-  
 ].filter((f) => !!f.lpAddresses[CHAIN_ID])
 
 export default farms

@@ -7,9 +7,9 @@
   ],
   "scripts": {
     "analyze": "ANALYZE=true yarn build",
-    "dev": "node_modules/next/dist/bin/next dev",
-    "build": "node_modules/next/dist/bin/next build",
-    "start": "node_modules/next/dist/bin/next start",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:config": "jest src/config/__tests__/ --testPathIgnorePatterns",
