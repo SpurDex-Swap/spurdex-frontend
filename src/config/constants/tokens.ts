@@ -109,7 +109,7 @@ export const mainnetTokens = defineTokens({
   redefi: new Token(
     MAINNET,
     '0x8d5c0351d7850C9E8A0C940673079E3736380e38',
-    18,
+    9,
     'REDEFi',
     'REDEFi Token',
     '',
